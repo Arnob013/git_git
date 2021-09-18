@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my bubbu is ver bad
+=======
+my mummu is very bad
+>>>>>>> 6a3ec625e024d7b3014ae74a7d7e2dabdf257ceb
